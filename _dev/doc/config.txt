@@ -1,0 +1,4 @@
+LoadModule headers_module modules/mod_headers.so
+LoadModule rewrite_module modules/mod_rewrite.so
+
+variáveis de ambiente path C:\Sistemas\instantclient;C:\Program Files\VertrigoServ\Php;

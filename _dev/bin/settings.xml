@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+	<project>@_PROJECT</project>
+	<localhost>
+		<server>@_SERVER</server>
+		<username>@_USERNAME</username>
+		<password>@_PASSWORD</password>
+		<database>@_DATABASE</database>
+	</localhost>
+	<official>
+		<server>@_SERVER</server>
+		<username>@_USERNAME</username>
+		<password>@_PASSWORD</password>
+		<database>@_DATABASE</database>
+	</official>
+</settings>
